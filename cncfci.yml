@@ -1,7 +1,7 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/containerd/icon/color/containerd-icon-color.svg?sanitize=true"
   display_name: containerd
-  sub_title: container runtime
+  sub_title: Container Runtime
   project_url: "https://github.com/containerd/containerd"
   stable_ref: "v1.3.0"
   head_ref: "master"
