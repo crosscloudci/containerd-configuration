@@ -8,7 +8,7 @@
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/containerd/containerd"  # can be anything for citest
+      ci_project_url: "https://travis-ci.org/containerd/containerd"  
       ci_project_name: "containerd/containerd"
       arch:
         - amd64
